@@ -468,6 +468,9 @@ MOUNT_OPTIONS=
 ###
 HOST_PATH_HTTPD_DATADIR=./data/www
 
+### VueJS project name
+VUEJS_PROJECT_NAME=
+
 
 ###
 ### Local filesystem path to where your backups are stored
