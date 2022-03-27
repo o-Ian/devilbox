@@ -467,7 +467,7 @@ MOUNT_OPTIONS=
 ### $ docker-compose rm -f
 ###
 HOST_PATH_HTTPD_DATADIR=./data/www
-
+    
 ### VueJS project name
 VUEJS_PROJECT_NAME=
 
